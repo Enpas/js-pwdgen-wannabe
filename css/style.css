@@ -1,0 +1,26 @@
+/* GLOBAL */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  height: 300px;
+  width: 60%;
+  margin: 50px auto;
+  padding: 50px;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0 0 4px 2px rgb(201, 201, 201);
+  background-color: rgb(183, 255, 227);
+}
+
+.container h1 {
+  margin-bottom: 20px;
+  color: rgb(255, 118, 68);
+}
+.container h2 {
+  margin-bottom: 20px;
+  color: rgb(40, 201, 174);
+}
